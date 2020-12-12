@@ -13,3 +13,4 @@
 ;MATCH：全匹配
 ;USER-AGENT:头部匹配(,com.google.ios.youtube*)
 DOMAIN-KEYWORD,nicegram
+DOMAIN-SUFFIX,emby.media
