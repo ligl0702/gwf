@@ -14,3 +14,6 @@
 ;USER-AGENT:头部匹配(,com.google.ios.youtube*)
 DOMAIN-KEYWORD,nicegram
 DOMAIN-SUFFIX,emby.media
+DOMAIN-KEYWORD,maying
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
