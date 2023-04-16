@@ -14,4 +14,4 @@
 ;USER-AGENT:头部匹配(,com.google.ios.youtube*)
 
 
-DOMAIN-SUFFIX：bing.com
+DOMAIN-SUFFIX,bing.com
