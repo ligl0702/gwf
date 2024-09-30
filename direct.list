@@ -9,8 +9,8 @@ DOMAIN,app.pingtools.org
 #dushe
 IN-PORT,11305
 DOMAIN-SUFFIX,kuaikan-cdn4.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,high25-playback.com
+DOMAIN-SUFFIX,ffzy-video.com
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,
