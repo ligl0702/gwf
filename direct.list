@@ -7,7 +7,7 @@ DOMAIN,checkip.dyndns.org
 DOMAIN,checkipv6.synology.com
 DOMAIN,app.pingtools.org
 #dushe
-IN-PORT,11305
+DST-PORT,11305
 DOMAIN-SUFFIX,kuaikan-cdn4.com
 DOMAIN-SUFFIX,high25-playback.com
 DOMAIN-SUFFIX,ffzy-video.com
@@ -16,4 +16,4 @@ DOMAIN-SUFFIX,ffzy-video.com
 #DOMAIN-SUFFIX,
 #DOMAIN-SUFFIX,
 #DOMAIN-SUFFIX,
-#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,kkys
