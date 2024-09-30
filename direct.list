@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,tesla.com
-DOMAIN-SUFFIX,account.synology.com
-DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN,account.synology.com
+DOMAIN,ddns.synology.com
+DOMAIN,checkip.synology.com
+DOMAIN,checkip.dyndns.org
+DOMAIN,checkipv6.synology.com
