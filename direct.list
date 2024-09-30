@@ -6,3 +6,14 @@ DOMAIN,checkip.synology.com
 DOMAIN,checkip.dyndns.org
 DOMAIN,checkipv6.synology.com
 DOMAIN,app.pingtools.org
+#dushe
+IN-PORT,11305
+DOMAIN-SUFFIX,kuaikan-cdn4.com
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-KEYWORD,
