@@ -11,7 +11,6 @@ DOMAIN,app.pingtools.org
 DOMAIN,mirrors.vsean.net
 PROCESS-NAME,tailscaled
 PROCESS-NAME,zerotier-one
-IP-CIDR,5.5.5.5/32,no-reverse
 
 #dushe
 DST-PORT,11305
@@ -45,7 +44,6 @@ DOMAIN-SUFFIX,qrstt.com
 DOMAIN-KEYWORD,kuaikan
 DOMAIN-KEYWORD,kekedy
 
-IP-CIDR,18.167.131.184/32,no-reverse
 
 DOMAIN,jp.taishan.pro
 DOMAIN,ru.taishan.pro
