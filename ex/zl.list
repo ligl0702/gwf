@@ -1,0 +1,6 @@
+PROCESS-NAME,tailscaled
+PROCESS-NAME,zerotier-one
+#dushe
+DST-PORT,11305
+DOMAIN-KEYWORD,kuaikan
+DOMAIN-KEYWORD,kekedy
