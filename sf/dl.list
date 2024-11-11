@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,android.clients.google.com
